@@ -26,7 +26,7 @@ $ ansible-playbook -i khosts kubernetes.yml  # To install kubernetes
 
 For Server Hardening 
 
-# download and install Inspec
+# Download and install Inspec
 ```sh
 $ wget https://packages.chef.io/files/stable/inspec/4.20.2/ubuntu/20.04/inspec_4.20.2-1_amd64.deb
 $ sudo dpkg -i inspec_4.20.2-1_amd64.deb
